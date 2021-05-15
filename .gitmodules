@@ -15,4 +15,7 @@
 	url = https://github.com/mixcore/mix.portal.angular-io
 [submodule "mix.portal.svelte"]
 	path = mix.portal.svelte
-	url = https://github.com/mixcore/mix.portal.svelte
+	url = ssh://git@github.com:mixcore/mix.portal.svelte.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:mixcore/docs.git
