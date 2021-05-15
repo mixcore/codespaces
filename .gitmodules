@@ -10,3 +10,9 @@
 [submodule "mix.lib.ts"]
 	path = mix.lib.ts
 	url = https://github.com/mixcore/mix.lib.ts
+[submodule "mix.portal.angular-io"]
+	path = mix.portal.angular-io
+	url = https://github.com/mixcore/mix.portal.angular-io
+[submodule "mix.portal.svelte"]
+	path = mix.portal.svelte
+	url = https://github.com/mixcore/mix.portal.svelte
