@@ -1,3 +1,12 @@
 [submodule "mix.core"]
 	path = mix.core
 	url = https://github.com/mixcore/mix.core
+[submodule "mix.heart"]
+	path = mix.heart
+	url = https://github.com/mixcore/mix.heart
+[submodule "mix.spa.portal"]
+	path = mix.spa.portal
+	url = https://github.com/mixcore/mix.spa.portal
+[submodule "mix.lib.ts"]
+	path = mix.lib.ts
+	url = https://github.com/mixcore/mix.lib.ts
