@@ -22,3 +22,6 @@
 [submodule "mix.portal.svelte"]
 	path = mix.portal.svelte
 	url = https://github.com/mixcore/mix.portal.svelte
+[submodule "mix.fe.portal"]
+	path = mix.fe.portal
+	url = https://github.com/mixcore/mix.fe.portal
