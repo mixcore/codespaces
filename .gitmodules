@@ -1,12 +1,6 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:mixcore/docs.git
-[submodule "mix.portal.svelte"]
-	path = mix.portal.svelte
-	url = git@github.com:mixcore/mix.portal.svelte
-[submodule "mix.portal.angular-io"]
-	path = mix.portal.angular-io
-	url = git@github.com:mixcore/mix.portal.angular-io
 [submodule "mix.core"]
 	path = mix.core
 	url = git@github.com:mixcore/mix.core
@@ -16,3 +10,15 @@
 [submodule "mix.heart"]
 	path = mix.heart
 	url = git@github.com:mixcore/mix.heart
+[submodule "mix.portal.angular"]
+	path = mix.portal.angular
+	url = https://github.com/mixcore/mix.portal.angular
+[submodule "mix.spa.portal"]
+	path = mix.spa.portal
+	url = https://github.com/mixcore/mix.spa.portal
+[submodule "mix.portal.react"]
+	path = mix.portal.react
+	url = https://github.com/mixcore/mix.portal.react
+[submodule "mix.portal.svelte"]
+	path = mix.portal.svelte
+	url = https://github.com/mixcore/mix.portal.svelte
